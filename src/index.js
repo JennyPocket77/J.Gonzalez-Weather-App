@@ -1,4 +1,4 @@
-// Challenge 1
+
 function formatDate(date) {
   let hours = date.getHours();
   if (hours < 10) {
@@ -29,7 +29,7 @@ let currentTime = new Date();
 
 dateElement.innerHTML = formatDate(currentTime);
 
-// Week 5 Homework Updates w/ API Installed
+
 function searchCity(city) {
   let apiKey = "5449566f91bf89e9a304207261a39d85";
   let units = "metric";
