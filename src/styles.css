@@ -58,6 +58,7 @@ button:hover {
 }
 
 .small {
+  display: block;
   text-align: center;
 }
 
