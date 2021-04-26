@@ -63,7 +63,7 @@ button:hover {
 }
 
 .current {
-  background: rgb(4, 136, 153);
+  background: rgb(20, 175, 196);
   border: 1px solid transparent;
   border-radius: 5px;
   box-shadow: 7px 5px 12px rgba(0, 0, 0, 0.1);
@@ -81,7 +81,7 @@ button:hover {
 }
 
 .current:hover {
-  background: rgb(71, 225, 245);
+  background: rgb(79, 230, 250);
   color: #fff;
 }
 
